@@ -55,7 +55,7 @@ output * bg ~/Downloads/wallpapers/pexels-pixabay-531880.jpg fill
     bindsym $mod+Return exec $term
 
     # Kill focused window
-    bindsym $mod+shift+q kill
+    bindsym $mod+q kill
 
     # Start your launcher
     bindsym $mod+d exec $menu
